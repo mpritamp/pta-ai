@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm files
+.idea/
+*.iml
+*.iws
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# Project-specific files
+db.sqlite3
+*.sqlite3
+*.pyc
+config.py
+
+# Logs and other generated files
+*.log
+logs/
+*.swp
+.DS_Store
